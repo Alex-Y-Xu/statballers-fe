@@ -395,7 +395,6 @@ const NewMatch = () => {
     return (
         <Container>
             <div>
-                <> buttons </>
                 <div style={{display: 'flex', flexDirection: 'column-reverse', alignItems: 'center'}}>{renderSquad()}</div>
             </div>
             <StatsContainer> 
